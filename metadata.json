@@ -1,0 +1,6 @@
+{
+  "name": "StudentBot Pro - Telegram Zayavka Platformasi",
+  "description": "Telegram boti va talabalar uchun referat, kurs ishi va loyiha zayavkalari qabul qiluvchi ultra zamonaviy WebApp tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
